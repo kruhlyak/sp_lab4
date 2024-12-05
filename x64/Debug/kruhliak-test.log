@@ -1,0 +1,8 @@
+﻿  test.cpp
+E:\Polytech\1 sem\SP\Lab4\kruhliak-test\stringProcessor.h(10,34): warning C4114: same type qualifier used more than once
+  (compiling source file '/test.cpp')
+  
+E:\Polytech\1 sem\SP\Lab4\kruhliak-test\stringProcessor.h(20,12): warning C4267: 'return': conversion from 'size_t' to 'const int32_t', possible loss of data
+  (compiling source file '/test.cpp')
+  
+  kruhliak-test.vcxproj -> E:\Polytech\1 sem\SP\Lab4\kruhliak-test\x64\Debug\kruhliak-test.exe
